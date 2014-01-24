@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/usb.png</file>
+        <file>img/luxia.png</file>
+        <file>img/octano_logo.png</file>
+        <file>img/the-anemix.png</file>
+        <file>img/loading.gif</file>
+        <file>img/load.png</file>
+        <file>img/save.png</file>
+    </qresource>
+</RCC>
